@@ -216,5 +216,5 @@ line-height: 12px;
 }
 .right-card-slide-bottom::after{
     margin-left: 20px;
-    content: url("/images/Vector 1.png");
+    content: url("../images/Vector 1.png");
 }
